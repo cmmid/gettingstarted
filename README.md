@@ -10,9 +10,10 @@ Welcome to the repository designed to support new starters, particularly Early C
   The CMMID welcome pack includes organisational resources for LSHTM, an introduction to the Centre for Mathematical Modelling of Infectious Diseases (CMMID), and training, development & funding opportunities.
   
 - **[Live Doc for Top Tips](https://docs.google.com/document/d/14YwqyTMRTQmhU_AdtnLv7ZnYLF-Za4Q1mTRXrW27ROM/edit?tab=t.0#heading=h.cnru3nce9gwe)**  
-  A collaborative space for tips and tricks and links that seasoned researchers wish they’d known when they first started. Jump in and add your own tips, or browse for quick guidance on frequently encountered questions.
+A collaborative space for tips and tricks and links that seasoned researchers wish they’d known when they first started. Jump in and add your own tips, or browse for quick guidance on frequently encountered questions.
+  
 - **[HPC](https://hpcinfo.lshtm.ac.uk/)**
-  LSHTM has a hpc! Follow this [link](https://hpcinfo.lshtm.ac.uk/getting_started.html) for guidance on how to get started.
+LSHTM has a hpc! Follow this [link](https://hpcinfo.lshtm.ac.uk/getting_started.html) for guidance on how to get started.
 ---
 
 ### 📌 Adding Resources
