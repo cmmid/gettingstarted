@@ -34,9 +34,7 @@ At LSHTM, you can join mailing lists on the [Sympa website](https://lists.lshtm.
 
 ## 🔗 Other useful links
 
-- **[HPC](https://hpcinfo.lshtm.ac.uk/)**
-  
-LSHTM has an HPC! Follow [this link](https://hpcinfo.lshtm.ac.uk/getting_started.html) for guidance on how to get started.
+- **[HPC](https://hpcinfo.lshtm.ac.uk/)** - LSHTM has an HPC! Follow [this link](https://hpcinfo.lshtm.ac.uk/getting_started.html) for guidance on how to get started.
 
 - Free available training is detailed on the [iTrent website](https://ce1061li.webitrent.com/ce1061li_ess/ess/dist/#/main/home/dashboard)
 
