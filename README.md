@@ -32,7 +32,7 @@ At LSHTM, you can join mailing lists on the [Sympa website](https://lists.lshtm.
 
 ---
 
-## 🔗 Other useful links
+## 🔗 Other useful links
 
 - **[HPC](https://hpcinfo.lshtm.ac.uk/)**
   
@@ -52,7 +52,7 @@ You can access teaching materials relating to a module via https://gate.lshtm.ac
 
 ---
 
-### 📌 Adding Resources
+## 📌 Adding Resources
 If you have a tip, resource, or answer to something you wished you'd known earlier, please:
 1. Edit the **[Live Doc for Top Tips](https://docs.google.com/document/d/14YwqyTMRTQmhU_AdtnLv7ZnYLF-Za4Q1mTRXrW27ROM/edit?tab=t.0#heading=h.cnru3nce9gwe)** with your advice.
 2. Or add directly to this repo's README
